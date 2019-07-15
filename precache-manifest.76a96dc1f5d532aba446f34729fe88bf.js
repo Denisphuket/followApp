@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/followApp/static/js/runtime~main.1b6df8e0.js"
   },
   {
-    "revision": "a04b1f158aa29ae14b25",
-    "url": "/followApp/static/js/main.53f697df.chunk.js"
+    "revision": "0b1c0b4be42463c6d215",
+    "url": "/followApp/static/js/main.f1a72dfd.chunk.js"
   },
   {
     "revision": "f2f181dcf46f3f2e7b87",
     "url": "/followApp/static/js/2.e4c6b1ba.chunk.js"
   },
   {
-    "revision": "a04b1f158aa29ae14b25",
+    "revision": "0b1c0b4be42463c6d215",
     "url": "/followApp/static/css/main.3e9748b4.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/followApp/static/css/2.a22b3ddb.chunk.css"
   },
   {
-    "revision": "f590a1802b21791596d4dc843f9190df",
+    "revision": "6d6bf6e2e009b0c67676fb2ea8487757",
     "url": "/followApp/index.html"
   }
 ];
